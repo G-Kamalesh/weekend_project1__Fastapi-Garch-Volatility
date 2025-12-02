@@ -112,7 +112,7 @@ Request Body (JSON):
 
 ```
 
-# ✍️ Contribution and Contact
+# ✍️ Contact
 
 This project was developed by " Kamaleashwar G ".
 
